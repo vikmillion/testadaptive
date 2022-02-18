@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testadaptive/static/css/main.073c9b0a.css",
+    "main.js": "/testadaptive/static/js/main.1d78ef64.js",
+    "static/js/787.89f0513a.chunk.js": "/testadaptive/static/js/787.89f0513a.chunk.js",
+    "index.html": "/testadaptive/index.html",
+    "main.073c9b0a.css.map": "/testadaptive/static/css/main.073c9b0a.css.map",
+    "main.1d78ef64.js.map": "/testadaptive/static/js/main.1d78ef64.js.map",
+    "787.89f0513a.chunk.js.map": "/testadaptive/static/js/787.89f0513a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1d78ef64.js"
+  ]
+}
